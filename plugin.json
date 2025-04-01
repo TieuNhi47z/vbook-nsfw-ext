@@ -7,10 +7,10 @@
         {
         "name": "LxHentai",
         "author": "TieuNhi47z",
-        "path": "https://raw.githubusercontent.com/TieuNhi47z/vbook-nsfw-ext/main/lxhentai/plugin.zip",
+        "path": "https://raw.githubusercontent.com/TieuNhi47z/vbook-nsfw-ext/main/lxmanga/plugin.zip",
         "version": 1,
         "source": "https://lxmanga.sbs",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-nsfw-ext/main/lxhentai/icon.png",
+        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-nsfw-ext/main/lxmanga/icon.png",
         "description": "Đọc truyện trên trang Lxhentai",
         "tag": "nsfw",
         "type": "comic",
